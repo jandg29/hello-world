@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi!
+
+I'm interested in web-development and I love WordPress.
